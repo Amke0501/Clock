@@ -1,0 +1,19 @@
+body{
+margin: 0%;
+background-position:center;
+background-image:url('Hourglass.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#clock{
+font-family: "Roboto";
+font-size: 80px;
+color:white;
+margin: auto;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+
