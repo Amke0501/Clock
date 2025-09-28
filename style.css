@@ -7,13 +7,16 @@ background-size: cover;
 }
 
 #clock{
-font-family: "Roboto";
-font-size: 80px;
+font-family: 'Roboto';
+font-size: 300px;
 color:white;
 margin: auto;
 display: flex;
 justify-content: center;
 align-items: center;
-height: 100vh;
+height: 100vh; 
 }
-
+/* added separate styling to ampm element to reduce the size of the text without affecting the entire element */
+#ampm{
+    font-size: 0.3em;
+}
