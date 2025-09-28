@@ -1,7 +1,7 @@
 body{
 margin: 0%;
 background-position:center;
-background-image:url('Hourglass.jpg');
+background-image:url('/img/Hourglass.jpg');
 background-repeat: no-repeat;
 background-size: cover;
 }
